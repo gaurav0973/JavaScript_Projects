@@ -1,3 +1,9 @@
+## Author
+**Gaurav Kumar Maurya**  
+- [LinkedIn Profile](www.linkedin.com/in/gaurav-maurya0973)  
+- [GitHub Profile](https://github.com/gaurav0973)
+
+
 ## PROJECT-1: To-Do List Application
 A simple and interactive **To-Do List Application** built using HTML, CSS, and JavaScript. This app allows users to efficiently manage their daily tasks by adding, completing, and deleting tasks. The tasks are stored in the browser's `localStorage`, ensuring they persist after refreshing the page.
 
