@@ -1,6 +1,6 @@
 ## Author
 **Gaurav Kumar Maurya**  
-- [LinkedIn Profile](www.linkedin.com/in/gaurav-maurya0973)  
+- [LinkedIn Profile](https://www.linkedin.com/in/gaurav-maurya0973)  
 - [GitHub Profile](https://github.com/gaurav0973)
 
 
