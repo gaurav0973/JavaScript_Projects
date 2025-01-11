@@ -38,3 +38,35 @@ A simple and interactive **To-Do List Application** built using HTML, CSS, and J
 
 4. **Object Representation for Tasks**: Each task is an object with properties like `id`, `text`, and `completed`.
 ---
+---
+# 🌦️PROJECT-2 :  Weather Application
+A simple and interactive **Weather Application** built using **HTML**, **CSS**, and **JavaScript**. This app allows users to retrieve real-time weather information for any city using the **OpenWeatherMap API**.
+
+# ✨ Features
+#### 📍 City Input: 
+- Users can enter the name of a city to fetch its weather details.
+
+#### 🔄 Get Weather:
+- A button triggers the fetch request to the **OpenWeatherMap API**.
+
+#### 🌡️ Weather Display:
+- Displays the **city's name**.
+- Shows the **current temperature** (in °C).
+- Provides a **description of the weather** (e.g., "clear sky").
+- Includes a **weather icon** for better visual representation.
+#### ⚠️ Error Handling:
+- Displays an **error message** if the city is not found or if the API request fails.
+
+
+
+## 🛠️ Key JavaScript Concepts Used
+
+### ⏳ Async/Await:
+- Handles **asynchronous API requests** for fetching weather data.
+
+### 🛑 Error Handling:
+- Uses **try-catch blocks** to handle potential errors during the API request.
+
+### 🖼️ Conditional Rendering:
+- Toggles the visibility of the **weather information** and **error message** based on the API response.
+---
