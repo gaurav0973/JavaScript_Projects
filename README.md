@@ -70,3 +70,32 @@ A simple and interactive **Weather Application** built using **HTML**, **CSS**, 
 ### 🖼️ Conditional Rendering:
 - Toggles the visibility of the **weather information** and **error message** based on the API response.
 ---
+---
+# 🛒 PROJECT-3: Shopping Cart Application
+
+- A simple and interactive **Shopping Cart Application** built using HTML, CSS, and JavaScript. 
+- This app allows users to browse products, add them to a cart, view the cart, and proceed to checkout.
+
+## ✨ Features
+
+### 🛍️ Product Listing:
+- Displays a list of products with their **name** and **price**.
+- Each product has an **Add to Cart** button for quick addition to the cart.
+
+### 🛒 Cart Management:
+- Displays all the items added to the cart.
+- Shows the **total price** of all cart items.
+- Option to **remove items** from the cart.
+
+### 💾 Persistent Storage:
+- Uses the browser's **localStorage** to save the cart data.
+- Ensures that the cart items remain available even after refreshing the page.
+
+## 🛠️ Key JavaScript Concepts Used
+
+### 🔄 DOM Manipulation:
+- Dynamically adds, updates, and removes elements for the product list and cart.
+
+### 📦 Local Storage:
+- Saves and retrieves cart data using **localStorage** to make it persistent across sessions.
+----
