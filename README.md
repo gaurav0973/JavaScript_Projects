@@ -99,3 +99,26 @@ A simple and interactive **Weather Application** built using **HTML**, **CSS**, 
 ### 📦 Local Storage:
 - Saves and retrieves cart data using **localStorage** to make it persistent across sessions.
 ----
+---
+# 💵 PROJECT-4: Expense Tracker Application  
+
+- **Expense Tracker Application** built using **HTML**, **CSS**, and **JavaScript**.  
+- This app allows users to add, view, and manage their expenses.
+## ✨ Features  
+
+### 📝 Expense Entry:  
+- Users can add expenses by entering a name and amount.  
+- Each expense is displayed with its name, amount, and a delete button to remove it from the list.  
+
+### 📜 Expense List Management:  
+- Displays a list of all expenses entered by the user.  
+- Shows the total amount of all recorded expenses.  
+- Allows users to remove individual expenses from the list.
+
+## 🛠️ Key JavaScript Concepts Used  
+
+### 📦 Local Storage:  
+- Saves and retrieves expense data using **localStorage**
+### 🔢 Real-Time Calculations:  
+- Calculates and updates the total expense amount dynamically as items are added or removed.  
+---
