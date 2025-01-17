@@ -122,3 +122,23 @@ A simple and interactive **Weather Application** built using **HTML**, **CSS**, 
 ### 🔢 Real-Time Calculations:  
 - Calculates and updates the total expense amount dynamically as items are added or removed.  
 ---
+---
+# 🎯PROJECT-5: Quiz Application
+
+The **Quiz Application** => built using **HTML, CSS, and JavaScript**.  
+## ✨ Features
+### 📚Dynamic Questions:
+- Displays one question at a time with multiple answer choices.
+
+### 🖱️Navigation:
+- **Next** and **Previous** buttons allow users to navigate through questions.
+- Highlights selected answers for each question.
+
+### 🏆 Result:
+- Calculates and displays the total score after the quiz is completed.
+- Users can restart the quiz to improve their score.
+
+## 🛠️ Key JavaScript Concepts Used
+### 🧠 State Management:
+- Maintains the state of selected answers and the current question index using arrays and variables.
+---
